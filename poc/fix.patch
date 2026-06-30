@@ -1,0 +1,26 @@
+diff --git a/src/analysis_mime.c b/src/analysis_mime.c
+index ace1b24..fcfbd7b 100644
+--- a/src/analysis_mime.c
++++ b/src/analysis_mime.c
+@@ -45,8 +45,13 @@ static int rv_mimeflow_cache_grow(rv_mimeflow_line_cache *cache, size_t extra)
+ {
+     char *next;
+     size_t next_cap;
++    size_t deferred_off = (size_t)-1;
+     if (!cache) return 0;
+     if (cache->len + extra + 1 <= cache->cap) return 1;
++    if (cache->deferred && cache->data && cache->deferred >= cache->data &&
++        cache->deferred < cache->data + cache->len) {
++        deferred_off = (size_t)(cache->deferred - cache->data);
++    }
+     next_cap = cache->cap ? cache->cap : 96;
+     while (next_cap < cache->len + extra + 1) next_cap *= 2;
+     next = (char *)malloc(next_cap);
+@@ -55,6 +60,7 @@ static int rv_mimeflow_cache_grow(rv_mimeflow_line_cache *cache, size_t extra)
+     free(cache->data);
+     cache->data = next;
+     cache->cap = next_cap;
++    if (deferred_off != (size_t)-1) cache->deferred = cache->data + deferred_off;
+     return 1;
+ }
+ 

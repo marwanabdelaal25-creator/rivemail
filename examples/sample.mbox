@@ -1,0 +1,12 @@
+From alice@example.test Sat Jan  1 00:00:00 2022
+From: Alice <alice@example.test>
+To: Bob <bob@example.test>
+Subject: First
+
+one
+From carol@example.test Sat Jan  1 00:01:00 2022
+From: Carol <carol@example.test>
+To: Dan <dan@example.test>
+Subject: Second
+
+two

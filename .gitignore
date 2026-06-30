@@ -1,0 +1,16 @@
+build/
+out/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+.DS_Store
+.vscode/
+.idea/
+*.zip
+core
+core.*
+/rivemail
+tests/test_main

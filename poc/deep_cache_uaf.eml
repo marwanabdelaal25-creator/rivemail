@@ -1,0 +1,159 @@
+From: a@example.com
+To: b@example.com
+Subject: deep digest
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="BOUNDARY-AFTERQUERY-LAYER-0001"
+
+preamble for a long structured message
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=utf-8; format=flowed; x-index=0; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line00=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=iso-8859-1; format=flowed; x-index=1; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=windows-1252; format=flowed; x-index=2; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line02=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=koi8-r; format=flowed; x-index=3; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=shift_jis; format=flowed; x-index=4; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line04=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=gb18030; format=flowed; x-index=5; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=iso-2022-jp; format=flowed; x-index=6; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line06=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=utf-8; format=flowed; x-index=7; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=iso-8859-1; format=flowed; x-index=8; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line08=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=windows-1252; format=flowed; x-index=9; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=koi8-r; format=flowed; x-index=10; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line10=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=shift_jis; format=flowed; x-index=11; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=gb18030; format=flowed; x-index=12; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line12=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=iso-2022-jp; format=flowed; x-index=13; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=utf-8; format=flowed; x-index=14; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line14=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=iso-8859-1; format=flowed; x-index=15; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=windows-1252; format=flowed; x-index=16; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line16=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=koi8-r; format=flowed; x-index=17; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=shift_jis; format=flowed; x-index=18; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line18=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=gb18030; format=flowed; x-index=19; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=iso-2022-jp; format=flowed; x-index=20; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line20=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=utf-8; format=flowed; x-index=21; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=iso-8859-1; format=flowed; x-index=22; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line22=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=windows-1252; format=flowed; x-index=23; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=koi8-r; format=flowed; x-index=24; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line24=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=shift_jis; format=flowed; x-index=25; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=gb18030; format=flowed; x-index=26; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line26=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=iso-2022-jp; format=flowed; x-index=27; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=utf-8; format=flowed; x-index=28; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: quoted-printable
+
+line28=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA003
+--BOUNDARY-AFTERQUERY-LAYER-0001
+Content-Type: text/plain; charset=iso-8859-1; format=flowed; x-index=29; x-fill="abcdefghijklmnopqrstuvwxyz"
+Content-Transfer-Encoding: base64
+
+QUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVo=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ3
+--BOUNDARY-AFTERQUERY-LAYER-0001--
+closing epilogue EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE3
